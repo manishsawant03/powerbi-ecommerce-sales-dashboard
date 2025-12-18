@@ -50,4 +50,4 @@ Screenshots are available in the `/screenshots` folder.
 4. Explore dashboards using slicers
 
 ## 📬 Contact
-For any queries or feedback, feel free to connect with me on LinkedIn.
+For any queries or feedback, feel free to connect with me on LinkedIn:https://www.linkedin.com/in/manishsawant0311
