@@ -50,5 +50,5 @@ Screenshots are available in the /screenshots folder.
 
 🔗 Contact Me
 📧 Email:swtmanish358@gmail.com
-💼 LinkedIn-manishsawant0311
-💻 Portfolio: GitHub Profile-manishsawant0311
+💼 LinkedIn-www.linkedin.com/in/manishsawant0311
+💻 Portfolio: [GitHub(https://github.com/Manishsawant0311)
